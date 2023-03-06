@@ -32,3 +32,25 @@ history
 rm  \<NombreArchivo>
 
 cat \<NombreArchivo>
+
+git diff codigo de un commit 
+
+git init \<directorio >
+
+rm --hel
+
+rm vacio.txt
+
+cat \<nombrearchivo>
+
+"security.wordspace.trust.untrustedfiles"
+
+"git.autofech": true,
+
+reset (codigo) para volver en el tiempo a ese codigo 
+
+reset hard (el mas duro)
+
+git fetch 
+
+git merge 
