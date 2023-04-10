@@ -46,3 +46,12 @@
 .btn-platzi:hover {
     background-color: #6b8f2b;
 }
+
+#place-time img{
+width: 600px;
+}
+
+#place-time {
+    background-color: rgb(255, 38, 0);
+    color:white;
+}
